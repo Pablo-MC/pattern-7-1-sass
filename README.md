@@ -4,7 +4,7 @@
   
 ### :white_check_mark: Pasos a seguir luego de clonar el repositorio:  
  
-**1. Instalar dependencias:** 
+**1. Instalar dependencias:** _(node-sass, live-server, autoprefixer, postcss-cli, npm-run-all)_ 
   
 ### `npm install`  
 
