@@ -8,9 +8,13 @@
   
 ### `npm install`  
 
+######
+
 **2. Ejecutar durante el flujo de trabajo de desarrollo:** 
  
 ### `npm start`
+
+######
 
 **3. Ejecutar para finalizar el proyecto:**
 
